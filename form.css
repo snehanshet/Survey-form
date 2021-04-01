@@ -1,0 +1,85 @@
+body{
+  background-image:url(https://i.huffpost.com/gen/1177866/thumbs/o-LATINO-COLLEGE-STUDENTS-facebook.jpg);
+  background-color:blue;
+  background-size:cover;
+  text-align:center;
+  background-blend-mode:lighten;
+}
+#survey-form{
+  color:white;
+  font-family :Arial;
+  display:inline-block;
+  text-align:left;
+  bottom:10px;
+  background:darkblue;
+  margin:auto;
+  padding:70px;
+  opacity:0.95;
+}
+#name-label{
+  width:525px;
+  padding:15px;
+  border-radius:10px;
+}
+.name{
+  padding-bottom:25px;
+}
+
+#email-label{
+  width:525px;
+  padding:15px;
+  border-radius:10px;
+}
+.email{
+  padding-bottom:25px;
+}
+
+#number-label{
+ width:525px;
+  padding:15px;
+  border-radius:10px;
+}
+.number{
+  padding-bottom:25px;
+}
+
+#role{
+  width:560px;
+  padding:15px;
+  border-radius:10px;
+}
+.role{
+  padding-bottom:25px;
+}
+
+.recommend{
+  padding-bottom:25px;
+}
+
+#feature{
+ width:560px;
+  padding:15px;
+  border-radius:10px;
+}
+.feature{
+  padding-bottom:25px;
+}
+
+.apply{
+  padding-bottom:25px;
+}
+
+#comment{
+ width:525px;
+  padding:15px;
+  border-radius:none;
+}
+.suggest{
+  padding-bottom:25px;
+}
+
+#submit{
+  display :inline-block;
+  background:green;
+  padding:10px 256px 10px;
+}
